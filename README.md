@@ -1,4 +1,5 @@
 # Destiny
+# Because it was meant to be there
 
 <img align="center" alt="example transformation" src="https://raw.githubusercontent.com/benawad/destiny/master/assets/example.png" />
 
